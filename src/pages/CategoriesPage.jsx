@@ -5,27 +5,27 @@ const categories = [
   {
     name: "Round Neck Shirts",
     desc: "Everyday essential wear",
-    image: "/categories/c1.jpg",
+    image: "/catPage pics/rn.png",
   },
   {
     name: "Drop Down  Shoulder",
     desc: "Relaxed street style",
-    image: "/categories/c2.jpg",
+    image: "/catPage pics/ds.png",
   },
   {
     name: "T Shirts (Collar)",
     desc: "Smart casual fits",
-    image: "/categories/c3.jpg",
+    image: "/catPage pics/ts.png",
   },
   {
     name: "Track Pants",
     desc: "Comfort meets performance",
-    image: "/categories/c4.jpg",
+    image: "/catPage pics/fs.png",
   },
   {
     name: "Combos",
     desc: "Value packs curated for you",
-    image: "/categories/c5.jpg",
+    image: "/catPage pics/cb.png",
   },
 ];
 
