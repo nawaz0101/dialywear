@@ -58,8 +58,8 @@ export default function About() {
       {/* 6. FOUNDER */}
       <section className="about-section founder">
         <div className="founder-card">
-          <img src="/about/founder.jpg" alt="Founder" />
-          <h3>Founder Name</h3>
+          <img src="/fabricpics/fpic.jpeg" alt="Founder" />
+          <h3>Mohammed Nawaz</h3>
           <p>"We believe fashion should empower individuality."</p>
         </div>
       </section>

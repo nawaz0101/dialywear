@@ -37,7 +37,7 @@ export default function Navbar({search, setSearch}) {
           <a href="/" onClick={handleClose}>Home</a>
           <Link to="/categories" onClick={handleClose} >Categories</Link>
           <Link to="/fabric" onClick={handleClose} >Fabric</Link>
-          <Link to="/contact" onClick={handleClose}>Testimonials</Link>
+          <Link to="/testimonials" onClick={handleClose}>Testimonials</Link>
           <Link to="/about" onClick={handleClose} >About</Link>
           <Link to="/contact" onClick={handleClose}>Contact</Link>
         </div>

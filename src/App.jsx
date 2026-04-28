@@ -9,6 +9,7 @@ import CategoriesPage from "./pages/CategoriesPage";
 import Fabric from "./pages/Fabric";
 import About from "./pages/About";
 import ContactPage from "./pages/ContactPage";
+import Testimonials from "./pages/testimonials";
 
 function App() {
   const [search, setSearch] = useState("");
@@ -28,6 +29,7 @@ function App() {
         <Route path="/fabric" element={<Fabric/>}/>
         <Route path="/about" element={<About/>}/>
         <Route path="/contact" element={<ContactPage/>}/>
+        <Route path="/testimonials" element={<Testimonials/>}/>
     </Routes>
     </BrowserRouter>
   );

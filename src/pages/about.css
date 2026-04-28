@@ -17,13 +17,17 @@ body {
 
 /* HERO */
 .about-hero {
-  height: 70vh;
+  height: 90vh;
   background: #000;
 
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: center;
+}
+
+.about-hero img{
+  margin-top: 100px;
 }
 
 .hero-content {
@@ -191,6 +195,12 @@ body {
   color: #fff;
 }
 
+.founder-card img{
+  height: 450px;
+  width: 450px;
+  border-radius: 40px;
+}
+
 /* RESPONSIVE */
 @media (max-width: 1024px) {
   .about-container {
@@ -214,6 +224,15 @@ body {
   .hero-logo {
   width: 500px;
   margin-bottom: 25px;
+}
+
+.about-hero{
+  height: 90vh;
+}
+
+.hero-content img{
+  margin-top: 100px;
+  width: 400px;
 }
 
   .mission-grid,

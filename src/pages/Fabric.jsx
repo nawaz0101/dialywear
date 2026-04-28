@@ -8,7 +8,7 @@ const fabrics = [
       "A textured fabric known for its lightweight feel and soft touch, perfect for everyday comfort.",
     uniqueness:
       "Breathable, stretchable, and wrinkle-resistant — ideal for casual wear.",
-    image: "/fabric/popcorn.jpg",
+    image: "/fabricpics/pcf.jpeg",
   },
   {
     name: "Zebra Jacquard",
@@ -16,15 +16,7 @@ const fabrics = [
       "Premium woven fabric with unique patterns that add depth and style.",
     uniqueness:
       "Luxury texture with high durability and a standout visual appeal.",
-    image: "/fabric/zebra.jpg",
-  },
-  {
-    name: "Mxeno Lycra Knit",
-    description:
-      "Smooth knit fabric blended with lycra for flexibility and comfort.",
-    uniqueness:
-      "Excellent stretch, shape retention, and all-day comfort.",
-    image: "/fabric/lycra.jpg",
+    image: "/fabricpics/jq.jpeg",
   },
 
 ];
