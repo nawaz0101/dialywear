@@ -1,0 +1,192 @@
+/* RESET */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* NAVBAR */
+.navbar {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  background: #484848;
+  z-index: 1000;
+}
+
+/* GRID LAYOUT FOR PERFECT CENTERING */
+.navbar-container {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  height: 70px;
+  padding: 0 40px;
+}
+
+/* LEFT */
+.nav-left {
+  justify-self: start;
+}
+
+.logo {
+  margin-top: 5px;
+  height: 60px;
+  cursor: pointer;
+}
+
+/* CENTER */
+.nav-center {
+  justify-self: center;
+  width: 100%;
+  max-width: 650px;
+}
+
+.search-bar {
+  width: 400px;
+  padding: 10px 18px;
+  border-radius: 25px;
+  border: none;
+  outline: none;
+  font-size: 14px;
+  transition: 0.3s ease;
+}
+
+.search-bar:focus {
+  box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.2);
+}
+
+/* RIGHT MENU (DESKTOP) */
+.nav-right {
+  justify-self: end;
+  display: flex;
+  gap: 30px;
+}
+
+.nav-right a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 14px;
+  letter-spacing: 0.5px;
+  transition: 0.3s ease;
+  position: relative;
+}
+
+/* HOVER UNDERLINE */
+.nav-right a::after {
+  content: "";
+  position: absolute;
+  width: 0%;
+  height: 2px;
+  background: #fff;
+  bottom: -4px;
+  left: 0;
+  transition: 0.3s ease;
+}
+
+.nav-right a:hover::after {
+  width: 100%;
+}
+
+/* HAMBURGER */
+.hamburger {
+  display: none;
+  flex-direction: column;
+  gap: 6px;
+  cursor: pointer;
+  justify-self: end;
+  z-index: 1001;
+}
+
+.hamburger span {
+  width: 25px;
+  height: 3px;
+  background: white;
+  transition: all 0.3s ease;
+}
+
+/* HAMBURGER → X ANIMATION */
+.hamburger.open span:nth-child(1) {
+  transform: rotate(45deg) translate(5px, 5px);
+}
+
+.hamburger.open span:nth-child(2) {
+  opacity: 0;
+}
+
+.hamburger.open span:nth-child(3) {
+  transform: rotate(-45deg) translate(6px, -6px);
+}
+
+/* OVERLAY */
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.4);
+  z-index: 998;
+}
+
+/* MOBILE */
+@media (max-width: 768px) {
+  .navbar-container {
+    padding: 0 20px;
+  }
+
+  .logo {
+      margin-top: 10px;
+    height: 45px;
+  }
+
+  /* SIDE DRAWER */
+  .nav-right {
+    position: fixed;
+    top: 0;
+    right: -100%;
+    width: 55%;
+    height: 100vh;
+    background: #7a7a7a;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 100px 30px;
+    gap: 25px;
+    transition: right 0.4s ease;
+    z-index: 999;
+  }
+
+  .nav-right.active {
+    right: 0;
+  }
+
+  .nav-right a {
+    font-size: 18px;
+    width: 100%;
+  }
+
+  /* SHOW HAMBURGER */
+  .hamburger {
+    display: flex;
+  }
+
+  /* KEEP SEARCH CENTERED */
+  .nav-center {
+    max-width: 250px;
+  }
+
+  .search-bar {
+    width: 200px;
+  }
+}
+
+/* SMALL DEVICES */
+@media (max-width: 480px) {
+  .search-bar {
+    font-size: 12px;
+    padding: 8px 14px;
+  }
+
+  .logo {
+    height: 32px;
+  }
+}
