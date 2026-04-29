@@ -1,7 +1,7 @@
 export const products = [
   {
     id: "ds-101",
-    name: "Round Neck Down Shoulder Shirt",
+    name: "Down Shoulder Shirt",
     category: "Down Shoulder",
     fabric: "Popcorn",
     price: 339,

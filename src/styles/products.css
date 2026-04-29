@@ -287,13 +287,13 @@
 
  .modal {
   width: 400px;
-  height: 400px;
+  height: 350px;
   margin: 10px;
  }
 
  .modal img{
-  height: 300px;
-  width: 250px;
+  height: 250px;
+  width: 200px;
  }
 
  .modal .thumbs img {
@@ -309,7 +309,7 @@
 }
 
 .modal-details p{
-  font-size: 10px;
+  font-size: 12px;
 }
 
 .modal-details .modal-price{
