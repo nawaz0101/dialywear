@@ -304,6 +304,10 @@
   border-radius: 6px;
 }
 
+.modal-details{
+  padding: 5 10px;
+}
+
 .modal-details h2{
   font-size: 15px;
 }
