@@ -55,7 +55,7 @@ const resetPrice = () => {
           <h4>Category</h4>
           {[
             "Round Neck Shirts",
-            "Drop Down  Shoulder",
+            "Down Shoulder",
             "T Shirts (Collar)",
             "Track Pants",
             "Combos",
