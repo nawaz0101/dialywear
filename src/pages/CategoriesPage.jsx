@@ -8,7 +8,7 @@ const categories = [
     image: "/catPage pics/rn.png",
   },
   {
-    name: "Drop Down  Shoulder",
+    name: "Down Shoulder",
     desc: "Relaxed street style",
     image: "/catPage pics/ds.png",
   },

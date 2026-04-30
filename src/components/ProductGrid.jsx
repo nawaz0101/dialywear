@@ -10,9 +10,11 @@ export default function ProductGrid({ products, filters, search }) {
 
   const filteredProducts = products
     .filter((p) => {
-      const matchesSearch = p.name
-        .toLowerCase()
-        .includes(search.toLowerCase());
+      const searchTerm = search.toLowerCase();
+
+const matchesSearch =
+  p.name.toLowerCase().includes(searchTerm) ||
+  String(p.id).toLowerCase().includes(searchTerm);
 
       const matchesCategory =
         filters.category.length === 0 ||

@@ -108,7 +108,7 @@ const resetPrice = () => {
         <div className="filter-group">
           <h4>Size</h4>
           <div className="sizes">
-            {["S", "M", "L", "XL", "XXL"].map((s) => (
+            {["36", "38", "40", "42", "44"].map((s) => (
               <button
                 key={s}
                 className={filters.size.includes(s) ? "active" : ""}
