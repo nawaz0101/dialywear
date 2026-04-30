@@ -88,6 +88,36 @@ export const products = [
       "/products/ds-106-grey3.jpeg",
     ],
   },
+   {
+    id: "ds-107",
+    name: "Down Shoulder Shirt",
+    category: "Down Shoulder",
+    fabric: "Popcorn",
+    price: 250,
+    sizes: ["38","42"],
+    description:
+      "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
+    images: [
+      "/products/ds-107-brown1.jpeg",
+      "/products/ds-107-brown2.jpeg",
+      "/products/ds-107-brown3.jpeg",
+    ],
+  },
+  {
+    id: "ds-108",
+    name: "Down Shoulder Shirt",
+    category: "Down Shoulder",
+    fabric: "Popcorn",
+    price: 250,
+    sizes: ["38","42"],
+    description:
+      "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
+    images: [
+      "/products/ds-108-skin1.jpeg",
+      "/products/ds-108-skin3.jpeg",
+      "/products/ds-108-skin2.jpeg",
+    ],
+  },
   {
     id: "TS-101",
     name: "Polo T Shirt Half Sleeves",
