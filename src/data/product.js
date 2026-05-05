@@ -235,6 +235,110 @@ export const products = [
       "/products/ds-109-sk1.png",
     ],
   },
+   {
+    id: "plhs-101",
+    name: "Polo T Shirt",
+    category: "T Shirts (Collar)",
+    fabric: "",
+    price: 330,
+    sizes: ["3XL"],
+    description:
+      "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
+    images: [
+      "/products/polo-hs-1.jpeg",
+    ],
+  },
+   {
+    id: "plhs-102",
+    name: "Polo T Shirt",
+    category: "T Shirts (Collar)",
+    fabric: "",
+    price: 330,
+    sizes: ["3XL"],
+    description:
+      "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
+    images: [
+      "/products/polo-hs-2.jpeg",
+    ],
+  },
+   {
+    id: "plhs-103",
+    name: "Polo T Shirt",
+    category: "T Shirts (Collar)",
+    fabric: "",
+    price: 330,
+    sizes: ["3XL"],
+    description:
+      "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
+    images: [
+      "/products/polo-hs-3.jpeg",
+    ],
+  },
+   {
+    id: "plhs-104",
+    name: "Polo T Shirt",
+    category: "T Shirts (Collar)",
+    fabric: "",
+    price: 330,
+    sizes: ["3XL"],
+    description:
+      "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
+    images: [
+      "/products/polo-hs-4.jpeg",
+    ],
+  },
+   {
+    id: "plhs-105",
+    name: "Polo T Shirt",
+    category: "T Shirts (Collar)",
+    fabric: "",
+    price: 330,
+    sizes: ["3XL"],
+    description:
+      "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
+    images: [
+      "/products/polo-hs-5.jpeg",
+    ],
+  },
+   {
+    id: "plhs-106",
+    name: "Polo T Shirt",
+    category: "T Shirts (Collar)",
+    fabric: "",
+    price: 330,
+    sizes: ["3XL"],
+    description:
+      "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
+    images: [
+      "/products/polo-hs-6.jpeg",
+    ],
+  },
+   {
+    id: "plhs-107",
+    name: "Polo T Shirt",
+    category: "T Shirts (Collar)",
+    fabric: "",
+    price: 330,
+    sizes: ["3XL"],
+    description:
+      "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
+    images: [
+      "/products/polo-hs-7.jpeg",
+    ],
+  },
+   {
+    id: "plhs-108",
+    name: "Polo T Shirt",
+    category: "T Shirts (Collar)",
+    fabric: "",
+    price: 330,
+    sizes: ["3XL"],
+    description:
+      "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
+    images: [
+      "/products/polo-hs-8.jpeg",
+    ],
+  },
   {
     id: "TS-101",
     name: "Polo T Shirt Half Sleeves",
