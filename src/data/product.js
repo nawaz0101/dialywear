@@ -4,7 +4,7 @@ export const products = [
     name: "Down Shoulder Shirt",
     category: "Down Shoulder",
     fabric: "Popcorn",
-    price: 250,
+    price: 299,
     sizes: ["38","42"],
     description:
       "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
@@ -19,7 +19,7 @@ export const products = [
     name: "Down Shoulder Shirt",
     category: "Down Shoulder",
     fabric: "Popcorn",
-    price: 250,
+    price: 299,
     sizes: ["38","42"],
     description:
       "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
@@ -34,7 +34,7 @@ export const products = [
     name: "Down Shoulder Shirt",
     category: "Down Shoulder",
     fabric: "Popcorn",
-    price: 250,
+    price: 299,
     sizes: ["38","42"],
     description:
       "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
@@ -49,7 +49,7 @@ export const products = [
     name: "Down Shoulder Shirt",
     category: "Down Shoulder",
     fabric: "Popcorn",
-    price: 250,
+    price: 299,
     sizes: ["38","42"],
     description:
       "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
@@ -63,7 +63,7 @@ export const products = [
     name: "Down Shoulder Shirt",
     category: "Down Shoulder",
     fabric: "Popcorn",
-    price: 250,
+    price: 299,
     sizes: ["38","42"],
     description:
       "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
@@ -78,7 +78,7 @@ export const products = [
     name: "Down Shoulder Shirt",
     category: "Down Shoulder",
     fabric: "Popcorn",
-    price: 250,
+    price: 299,
     sizes: ["38","42"],
     description:
       "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
@@ -93,7 +93,7 @@ export const products = [
     name: "Down Shoulder Shirt",
     category: "Down Shoulder",
     fabric: "Popcorn",
-    price: 250,
+    price: 299,
     sizes: ["38","42"],
     description:
       "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
@@ -108,7 +108,7 @@ export const products = [
     name: "Down Shoulder Shirt",
     category: "Down Shoulder",
     fabric: "Popcorn",
-    price: 250,
+    price: 299,
     sizes: ["38","42"],
     description:
       "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
@@ -123,7 +123,7 @@ export const products = [
     name: "Down Shoulder Shirt",
     category: "Down Shoulder",
     fabric: "Popcorn",
-    price: 250,
+    price: 299,
     sizes: ["40"],
     description:
       "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
@@ -138,7 +138,7 @@ export const products = [
     name: "Down Shoulder Shirt",
     category: "Down Shoulder",
     fabric: "Popcorn",
-    price: 250,
+    price: 299,
     sizes: ["40"],
     description:
       "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
@@ -153,7 +153,7 @@ export const products = [
     name: "Down Shoulder Shirt",
     category: "Down Shoulder",
     fabric: "Popcorn",
-    price: 250,
+    price: 299,
     sizes: ["40"],
     description:
       "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
@@ -166,7 +166,7 @@ export const products = [
     name: "Down Shoulder Shirt",
     category: "Down Shoulder",
     fabric: "Popcorn",
-    price: 250,
+    price: 299,
     sizes: ["40"],
     description:
       "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
@@ -181,7 +181,7 @@ export const products = [
     name: "Down Shoulder Shirt",
     category: "Down Shoulder",
     fabric: "Popcorn",
-    price: 250,
+    price: 299,
     sizes: ["40"],
     description:
       "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
@@ -196,7 +196,7 @@ export const products = [
     name: "Down Shoulder Shirt",
     category: "Down Shoulder",
     fabric: "Popcorn",
-    price: 250,
+    price: 299,
     sizes: ["40"],
     description:
       "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
@@ -211,7 +211,7 @@ export const products = [
     name: "Down Shoulder Shirt",
     category: "Down Shoulder",
     fabric: "Popcorn",
-    price: 250,
+    price: 299,
     sizes: ["40"],
     description:
       "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
@@ -226,7 +226,7 @@ export const products = [
     name: "Down Shoulder Shirt",
     category: "Down Shoulder",
     fabric: "Popcorn",
-    price: 250,
+    price: 299,
     sizes: ["40"],
     description:
       "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
@@ -240,7 +240,7 @@ export const products = [
     name: "Polo T Shirt",
     category: "T Shirts (Collar)",
     fabric: "",
-    price: 330,
+    price: 399,
     sizes: ["3XL"],
     description:
       "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
@@ -253,7 +253,7 @@ export const products = [
     name: "Polo T Shirt",
     category: "T Shirts (Collar)",
     fabric: "",
-    price: 330,
+    price: 399,
     sizes: ["3XL"],
     description:
       "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
@@ -266,7 +266,7 @@ export const products = [
     name: "Polo T Shirt",
     category: "T Shirts (Collar)",
     fabric: "",
-    price: 330,
+    price: 399,
     sizes: ["3XL"],
     description:
       "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
@@ -279,7 +279,7 @@ export const products = [
     name: "Polo T Shirt",
     category: "T Shirts (Collar)",
     fabric: "",
-    price: 330,
+    price: 399,
     sizes: ["3XL"],
     description:
       "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
@@ -292,7 +292,7 @@ export const products = [
     name: "Polo T Shirt",
     category: "T Shirts (Collar)",
     fabric: "",
-    price: 330,
+    price: 399,
     sizes: ["3XL"],
     description:
       "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
@@ -305,7 +305,7 @@ export const products = [
     name: "Polo T Shirt",
     category: "T Shirts (Collar)",
     fabric: "",
-    price: 330,
+    price: 399,
     sizes: ["3XL"],
     description:
       "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
@@ -318,7 +318,7 @@ export const products = [
     name: "Polo T Shirt",
     category: "T Shirts (Collar)",
     fabric: "",
-    price: 330,
+    price: 399,
     sizes: ["3XL"],
     description:
       "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
@@ -331,7 +331,7 @@ export const products = [
     name: "Polo T Shirt",
     category: "T Shirts (Collar)",
     fabric: "",
-    price: 330,
+    price: 399,
     sizes: ["3XL"],
     description:
       "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
@@ -344,7 +344,7 @@ export const products = [
     name: "Polo T Shirt Half Sleeves",
     category: "T Shirts (Collar)",
     fabric: "Zebra Jacquard",
-    price: 250,
+    price: 299,
     sizes: ["40"],
     description:
       "Premium popcorn fabric t-shirt with down Shoulders designed for everyday comfort and style.",
